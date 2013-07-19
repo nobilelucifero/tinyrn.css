@@ -1,7 +1,7 @@
-Normreset
+Normreset (tinyrn)
 =========
 
-A super super (and silly) simple CSS resetter/normalizer for my HTML/CSS/JS demos
+A super super (and silly) tiny CSS reset and normalizer (kinda) for my HTML/CSS/JS demos
 
 Copy and paste version
 
