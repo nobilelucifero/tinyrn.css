@@ -1,0 +1,15 @@
+/* 
+:: Normreset APLHA
+::
+:: Not even a proper release
+*/
+
+/* Apply the border-box box-model also to the pseudo elements */
+*, *:after, *:before {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
