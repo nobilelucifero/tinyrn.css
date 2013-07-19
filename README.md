@@ -11,6 +11,8 @@ Copy and paste version
     margin: 0;
     padding: 0;
     font-family: sans-serif;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
     -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
             box-sizing: border-box;
