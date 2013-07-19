@@ -6,7 +6,7 @@ A super super (and silly) tiny CSS reset and normalizer (kinda) for my HTML/CSS/
 Copy and paste version
 
 ```css
-/* tinyrn.css */ 
+/* github.com/nobilelucifero/tinyrn.css */ 
 *, *:after, *:before {
     margin: 0;
     padding: 0;
