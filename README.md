@@ -1,9 +1,9 @@
 tinyrn.css
 =========
 
-A super super (and silly) tiny CSS reset and normalizer (kinda) for my HTML/CSS/JS demos
+A super (and silly) tiny CSS Reset (kinda) for my HTML/CSS/JS demos.
 
-Copy and paste version
+####Copy and paste version
 
 ```css
 /* github.com/nobilelucifero/tinyrn.css */
